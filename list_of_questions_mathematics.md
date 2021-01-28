@@ -11,6 +11,7 @@
 1. What is the determinant of a square matrix? How is it calculated (Laplace expansion)? What is the connection of determinant to eigenvalues?
 1. Discuss span and linear dependence.
 1. What is Ax = b? When does Ax =b has a unique solution? 
+ - http://www.math.ucsd.edu/~rjtobin/20F/ha3.pdf
 1. In Ax = b, what happens when A is fat or tall?
 1. When does inverse of A exist?
 1. What is a norm? What is L1, L2 and L infinity norm?
