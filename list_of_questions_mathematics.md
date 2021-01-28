@@ -2,6 +2,8 @@
 
 ## Linear Algebra
 1. What is broadcasting in connection to Linear Algebra?
+  - https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html#broadcasting
+  - https://quizlet.com/ru/427850841/linear-algebra-flash-cards/
 1. What are scalars, vectors, matrices, and tensors?
 1. What is Hadamard product of two matrices?
 1. What is an inverse matrix?
