@@ -34,6 +34,7 @@
 1. Write the eigendecomposition formula for a matrix. If the matrix is real symmetric, how will this change?
 1. Is the eigendecomposition guaranteed to be unique? If not, then how do we represent it?
 1. What are positive definite, negative definite, positive semi definite and negative semi definite matrices?
+ - http://www.math.usm.edu/math/lambers/mat419/lecture3.pdf
 1. What is SVD? Why do we use it? Why not just use ED?
 1. Given a matrix A, how will you calculate its SVD?
 1. What are singular values, left singulars and right singulars?
